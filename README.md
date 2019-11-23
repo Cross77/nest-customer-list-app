@@ -10,7 +10,7 @@ This prototype is divided into two separate sections. Namely the Backend ( Built
 To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `customer-list-app-backend` and `customer-list-app-frontend`)
 
 ```bash
-git clone https://github.com/yemiwebby/nest-customer-list-app.git
+git clone https://github.com/Cross77/nest-customer-list-app.git
 ```
 
 ## Change directory into the newly cloned project
